@@ -22,6 +22,10 @@
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
+    
+    /* Allow JS files */
+    "allowJs": true,
+    "checkJs": false,
 
     /* Path mapping */
     "baseUrl": ".",
